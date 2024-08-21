@@ -12,3 +12,9 @@ Establish time constraints for tasks to mitigate the risk of overcommitment to a
 Politely decline additional commitments that may overload your schedule.
 5)TO DO LIST:
 You can also use To Do List.
+6)DO:
+Important
+Not Important 
+Urgent and important tasks that need to be done right away.
+
+
